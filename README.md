@@ -10,11 +10,11 @@ When you are finished, please email me your solutions.
 
 Now the questions:
 
-- Question 1
-- Question 2
-- Question 3
-- Question 4
-- Question 5
+- [Question 1](q1.md)
+- [Question 2](q2.md)
+- [Question 3](q3.md)
+- [Question 4](q4.md)
+- [Question 5](q5.md)
 
 I am really thankful for you to take this test and I look forward to your results.
 
