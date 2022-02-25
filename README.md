@@ -19,5 +19,7 @@ Now the questions:
 I am really thankful for you to take this test and I look forward to your results.
 
 With best regards
+
 Cristiano Bianchi
+
 Keepthinking
